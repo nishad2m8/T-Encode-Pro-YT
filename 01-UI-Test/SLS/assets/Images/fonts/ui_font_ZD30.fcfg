@@ -1,0 +1,16 @@
+{
+  "codename": "ZD30",
+  "ttf_path": "/assets/Images/fonts/ZenDots-Regular.ttf",
+  "bin_path": "/assets/Images/fonts/ui_font_ZD30.bin",
+  "c_path": "/assets/Images/fonts/ui_font_ZD30.c",
+  "cfg_path": "/assets/Images/fonts/ui_font_ZD30.fcfg",
+  "size": 30,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
